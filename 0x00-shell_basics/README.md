@@ -1,1 +1,1 @@
-not a empty repo
+no repo
