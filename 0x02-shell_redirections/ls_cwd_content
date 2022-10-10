@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 kurohige kurohige 4096 Oct 10 08:57 .
+drwxrwxr-x 6 kurohige kurohige 4096 Oct 10 08:20 ..
+-rwxrw-r-- 1 kurohige kurohige   32 Oct 10 08:25 0-hello_world
+-rwxrw-r-- 1 kurohige kurohige   28 Oct 10 08:35 1-confused_smiley
+-rwxrw-r-- 1 kurohige kurohige   28 Oct 10 08:37 2-hellofile
+-rwxrw-r-- 1 kurohige kurohige   39 Oct 10 08:40 3-twofiles
+-rwxrw-r-- 1 kurohige kurohige   35 Oct 10 08:42 4-lastlines
+-rwxrw-r-- 1 kurohige kurohige   35 Oct 10 08:45 5-firstlines
+-rwxrw-r-- 1 kurohige kurohige   40 Oct 10 08:47 6-third_line
+-rwxrw-r-- 1 kurohige kurohige  100 Oct 10 08:51 7-file
+-rwxrw-r-- 1 kurohige kurohige   36 Oct 10 08:56 8-cwd_state
+-rw-rw-r-- 1 kurohige kurohige   12 Oct 10 08:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 kurohige kurohige    0 Oct 10 08:58 ls_cwd_content
+-rw-rw-r-- 1 kurohige kurohige   19 Oct 10 08:28 README.md
